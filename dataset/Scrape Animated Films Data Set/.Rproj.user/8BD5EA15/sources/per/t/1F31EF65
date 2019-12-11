@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571955513001.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1887824921",
+    "id" : "1F31EF65",
+    "lastKnownWriteTime" : 1571955776,
+    "last_content_update" : 1572732319871,
+    "path" : "~/GitHub/NetSci/dataset/Scrape Animated Films Data Set/Web Scrape Animated Films Data Set.Rmd",
+    "project_path" : "Web Scrape Animated Films Data Set.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,44",
+        "last_setup_crc32" : "5958DF9056e97333",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

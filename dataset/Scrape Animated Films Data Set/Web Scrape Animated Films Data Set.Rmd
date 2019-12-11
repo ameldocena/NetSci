@@ -1,0 +1,16 @@
+---
+title: "Web Scrape Animated Films Data Set"
+author: "Amel Docena"
+date: "10/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+library('tidyverse')
+```
+
+```{r}
+
+```
+

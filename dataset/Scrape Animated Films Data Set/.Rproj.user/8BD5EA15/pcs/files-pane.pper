@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/NetSci/dataset/Scrape Animated Films Data Set",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,863 @@
+,source,target,film,year,studio
+0,John Lasseter,Pete Docter,ToyStory,1995,Pixar
+1,John Lasseter,Andrew Stanton,ToyStory,1995,Pixar
+2,John Lasseter,Joe Ranft,ToyStory,1995,Pixar
+3,John Lasseter,Joss Whedon,ToyStory,1995,Pixar
+4,John Lasseter,Joel Cohen,ToyStory,1995,Pixar
+5,John Lasseter,Alec Sokolow,ToyStory,1995,Pixar
+6,John Lasseter,Bonnie Arnold,ToyStory,1995,Pixar
+7,John Lasseter,Ed Catmull,ToyStory,1995,Pixar
+8,John Lasseter,Ralph Guggenheim,ToyStory,1995,Pixar
+9,John Lasseter,Steve Jobs,ToyStory,1995,Pixar
+10,Pete Docter,Andrew Stanton,ToyStory,1995,Pixar
+11,Pete Docter,Joe Ranft,ToyStory,1995,Pixar
+12,Pete Docter,Joss Whedon,ToyStory,1995,Pixar
+13,Pete Docter,Joel Cohen,ToyStory,1995,Pixar
+14,Pete Docter,Alec Sokolow,ToyStory,1995,Pixar
+15,Pete Docter,Bonnie Arnold,ToyStory,1995,Pixar
+16,Pete Docter,Ed Catmull,ToyStory,1995,Pixar
+17,Pete Docter,Ralph Guggenheim,ToyStory,1995,Pixar
+18,Pete Docter,Steve Jobs,ToyStory,1995,Pixar
+19,Andrew Stanton,Joe Ranft,ToyStory,1995,Pixar
+20,Andrew Stanton,Joss Whedon,ToyStory,1995,Pixar
+21,Andrew Stanton,Joel Cohen,ToyStory,1995,Pixar
+22,Andrew Stanton,Alec Sokolow,ToyStory,1995,Pixar
+23,Andrew Stanton,Bonnie Arnold,ToyStory,1995,Pixar
+24,Andrew Stanton,Ed Catmull,ToyStory,1995,Pixar
+25,Andrew Stanton,Ralph Guggenheim,ToyStory,1995,Pixar
+26,Andrew Stanton,Steve Jobs,ToyStory,1995,Pixar
+27,Joe Ranft,Joss Whedon,ToyStory,1995,Pixar
+28,Joe Ranft,Joel Cohen,ToyStory,1995,Pixar
+29,Joe Ranft,Alec Sokolow,ToyStory,1995,Pixar
+30,Joe Ranft,Bonnie Arnold,ToyStory,1995,Pixar
+31,Joe Ranft,Ed Catmull,ToyStory,1995,Pixar
+32,Joe Ranft,Ralph Guggenheim,ToyStory,1995,Pixar
+33,Joe Ranft,Steve Jobs,ToyStory,1995,Pixar
+34,Joss Whedon,Joel Cohen,ToyStory,1995,Pixar
+35,Joss Whedon,Alec Sokolow,ToyStory,1995,Pixar
+36,Joss Whedon,Bonnie Arnold,ToyStory,1995,Pixar
+37,Joss Whedon,Ed Catmull,ToyStory,1995,Pixar
+38,Joss Whedon,Ralph Guggenheim,ToyStory,1995,Pixar
+39,Joss Whedon,Steve Jobs,ToyStory,1995,Pixar
+40,Joel Cohen,Alec Sokolow,ToyStory,1995,Pixar
+41,Joel Cohen,Bonnie Arnold,ToyStory,1995,Pixar
+42,Joel Cohen,Ed Catmull,ToyStory,1995,Pixar
+43,Joel Cohen,Ralph Guggenheim,ToyStory,1995,Pixar
+44,Joel Cohen,Steve Jobs,ToyStory,1995,Pixar
+45,Alec Sokolow,Bonnie Arnold,ToyStory,1995,Pixar
+46,Alec Sokolow,Ed Catmull,ToyStory,1995,Pixar
+47,Alec Sokolow,Ralph Guggenheim,ToyStory,1995,Pixar
+48,Alec Sokolow,Steve Jobs,ToyStory,1995,Pixar
+49,Bonnie Arnold,Ed Catmull,ToyStory,1995,Pixar
+50,Bonnie Arnold,Ralph Guggenheim,ToyStory,1995,Pixar
+51,Bonnie Arnold,Steve Jobs,ToyStory,1995,Pixar
+52,Ed Catmull,Ralph Guggenheim,ToyStory,1995,Pixar
+53,Ed Catmull,Steve Jobs,ToyStory,1995,Pixar
+54,Ralph Guggenheim,Steve Jobs,ToyStory,1995,Pixar
+0,John Lasseter,Andrew Stanton,BugsLife,1998,Pixar
+1,John Lasseter,Joe Ranft,BugsLife,1998,Pixar
+2,John Lasseter,Don McEnery,BugsLife,1998,Pixar
+3,John Lasseter,Bob Shaw,BugsLife,1998,Pixar
+4,John Lasseter,Darla K. Anderson,BugsLife,1998,Pixar
+5,John Lasseter,Kevin Reher,BugsLife,1998,Pixar
+6,Andrew Stanton,Joe Ranft,BugsLife,1998,Pixar
+7,Andrew Stanton,Don McEnery,BugsLife,1998,Pixar
+8,Andrew Stanton,Bob Shaw,BugsLife,1998,Pixar
+9,Andrew Stanton,Darla K. Anderson,BugsLife,1998,Pixar
+10,Andrew Stanton,Kevin Reher,BugsLife,1998,Pixar
+11,Joe Ranft,Don McEnery,BugsLife,1998,Pixar
+12,Joe Ranft,Bob Shaw,BugsLife,1998,Pixar
+13,Joe Ranft,Darla K. Anderson,BugsLife,1998,Pixar
+14,Joe Ranft,Kevin Reher,BugsLife,1998,Pixar
+15,Don McEnery,Bob Shaw,BugsLife,1998,Pixar
+16,Don McEnery,Darla K. Anderson,BugsLife,1998,Pixar
+17,Don McEnery,Kevin Reher,BugsLife,1998,Pixar
+18,Bob Shaw,Darla K. Anderson,BugsLife,1998,Pixar
+19,Bob Shaw,Kevin Reher,BugsLife,1998,Pixar
+20,Darla K. Anderson,Kevin Reher,BugsLife,1998,Pixar
+0,John Lasseter,Ash Brannon,ToyStory2,1999,Pixar
+1,John Lasseter,Lee Unkrich,ToyStory2,1999,Pixar
+2,John Lasseter,Pete Docter,ToyStory2,1999,Pixar
+3,John Lasseter,Andrew Stanton,ToyStory2,1999,Pixar
+4,John Lasseter,Rita Hsiao,ToyStory2,1999,Pixar
+5,John Lasseter,Doug Chamberlin,ToyStory2,1999,Pixar
+6,John Lasseter,Chris Webb,ToyStory2,1999,Pixar
+7,John Lasseter,Karen Robert Jackson,ToyStory2,1999,Pixar
+8,John Lasseter,Sarah McArthur,ToyStory2,1999,Pixar
+9,John Lasseter,Helene Plotkin,ToyStory2,1999,Pixar
+10,Ash Brannon,Lee Unkrich,ToyStory2,1999,Pixar
+11,Ash Brannon,Pete Docter,ToyStory2,1999,Pixar
+12,Ash Brannon,Andrew Stanton,ToyStory2,1999,Pixar
+13,Ash Brannon,Rita Hsiao,ToyStory2,1999,Pixar
+14,Ash Brannon,Doug Chamberlin,ToyStory2,1999,Pixar
+15,Ash Brannon,Chris Webb,ToyStory2,1999,Pixar
+16,Ash Brannon,Karen Robert Jackson,ToyStory2,1999,Pixar
+17,Ash Brannon,Sarah McArthur,ToyStory2,1999,Pixar
+18,Ash Brannon,Helene Plotkin,ToyStory2,1999,Pixar
+19,Lee Unkrich,Pete Docter,ToyStory2,1999,Pixar
+20,Lee Unkrich,Andrew Stanton,ToyStory2,1999,Pixar
+21,Lee Unkrich,Rita Hsiao,ToyStory2,1999,Pixar
+22,Lee Unkrich,Doug Chamberlin,ToyStory2,1999,Pixar
+23,Lee Unkrich,Chris Webb,ToyStory2,1999,Pixar
+24,Lee Unkrich,Karen Robert Jackson,ToyStory2,1999,Pixar
+25,Lee Unkrich,Sarah McArthur,ToyStory2,1999,Pixar
+26,Lee Unkrich,Helene Plotkin,ToyStory2,1999,Pixar
+27,Pete Docter,Andrew Stanton,ToyStory2,1999,Pixar
+28,Pete Docter,Rita Hsiao,ToyStory2,1999,Pixar
+29,Pete Docter,Doug Chamberlin,ToyStory2,1999,Pixar
+30,Pete Docter,Chris Webb,ToyStory2,1999,Pixar
+31,Pete Docter,Karen Robert Jackson,ToyStory2,1999,Pixar
+32,Pete Docter,Sarah McArthur,ToyStory2,1999,Pixar
+33,Pete Docter,Helene Plotkin,ToyStory2,1999,Pixar
+34,Andrew Stanton,Rita Hsiao,ToyStory2,1999,Pixar
+35,Andrew Stanton,Doug Chamberlin,ToyStory2,1999,Pixar
+36,Andrew Stanton,Chris Webb,ToyStory2,1999,Pixar
+37,Andrew Stanton,Karen Robert Jackson,ToyStory2,1999,Pixar
+38,Andrew Stanton,Sarah McArthur,ToyStory2,1999,Pixar
+39,Andrew Stanton,Helene Plotkin,ToyStory2,1999,Pixar
+40,Rita Hsiao,Doug Chamberlin,ToyStory2,1999,Pixar
+41,Rita Hsiao,Chris Webb,ToyStory2,1999,Pixar
+42,Rita Hsiao,Karen Robert Jackson,ToyStory2,1999,Pixar
+43,Rita Hsiao,Sarah McArthur,ToyStory2,1999,Pixar
+44,Rita Hsiao,Helene Plotkin,ToyStory2,1999,Pixar
+45,Doug Chamberlin,Chris Webb,ToyStory2,1999,Pixar
+46,Doug Chamberlin,Karen Robert Jackson,ToyStory2,1999,Pixar
+47,Doug Chamberlin,Sarah McArthur,ToyStory2,1999,Pixar
+48,Doug Chamberlin,Helene Plotkin,ToyStory2,1999,Pixar
+49,Chris Webb,Karen Robert Jackson,ToyStory2,1999,Pixar
+50,Chris Webb,Sarah McArthur,ToyStory2,1999,Pixar
+51,Chris Webb,Helene Plotkin,ToyStory2,1999,Pixar
+52,Karen Robert Jackson,Sarah McArthur,ToyStory2,1999,Pixar
+53,Karen Robert Jackson,Helene Plotkin,ToyStory2,1999,Pixar
+54,Sarah McArthur,Helene Plotkin,ToyStory2,1999,Pixar
+0,Pete Docter,David Silverman,MonsterInc,2001,Pixar
+1,Pete Docter,Lee Unkrich,MonsterInc,2001,Pixar
+2,Pete Docter,Jill Culton,MonsterInc,2001,Pixar
+3,Pete Docter,Jeff Pidgeon,MonsterInc,2001,Pixar
+4,Pete Docter,Ralph Eggleston,MonsterInc,2001,Pixar
+5,Pete Docter,Andrew Stanton,MonsterInc,2001,Pixar
+6,Pete Docter,Daniel Gerson,MonsterInc,2001,Pixar
+7,Pete Docter,Bob Peterson,MonsterInc,2001,Pixar
+8,Pete Docter,Joe Ranft,MonsterInc,2001,Pixar
+9,Pete Docter,Robert L. Baird,MonsterInc,2001,Pixar
+10,Pete Docter,Rhett Reese,MonsterInc,2001,Pixar
+11,Pete Docter,Jonathan Roberts,MonsterInc,2001,Pixar
+12,Pete Docter,Darla K. Anderson,MonsterInc,2001,Pixar
+13,Pete Docter,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+14,Pete Docter,John Lasseter,MonsterInc,2001,Pixar
+15,Pete Docter,Kori Rae,MonsterInc,2001,Pixar
+16,David Silverman,Lee Unkrich,MonsterInc,2001,Pixar
+17,David Silverman,Jill Culton,MonsterInc,2001,Pixar
+18,David Silverman,Jeff Pidgeon,MonsterInc,2001,Pixar
+19,David Silverman,Ralph Eggleston,MonsterInc,2001,Pixar
+20,David Silverman,Andrew Stanton,MonsterInc,2001,Pixar
+21,David Silverman,Daniel Gerson,MonsterInc,2001,Pixar
+22,David Silverman,Bob Peterson,MonsterInc,2001,Pixar
+23,David Silverman,Joe Ranft,MonsterInc,2001,Pixar
+24,David Silverman,Robert L. Baird,MonsterInc,2001,Pixar
+25,David Silverman,Rhett Reese,MonsterInc,2001,Pixar
+26,David Silverman,Jonathan Roberts,MonsterInc,2001,Pixar
+27,David Silverman,Darla K. Anderson,MonsterInc,2001,Pixar
+28,David Silverman,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+29,David Silverman,John Lasseter,MonsterInc,2001,Pixar
+30,David Silverman,Kori Rae,MonsterInc,2001,Pixar
+31,Lee Unkrich,Jill Culton,MonsterInc,2001,Pixar
+32,Lee Unkrich,Jeff Pidgeon,MonsterInc,2001,Pixar
+33,Lee Unkrich,Ralph Eggleston,MonsterInc,2001,Pixar
+34,Lee Unkrich,Andrew Stanton,MonsterInc,2001,Pixar
+35,Lee Unkrich,Daniel Gerson,MonsterInc,2001,Pixar
+36,Lee Unkrich,Bob Peterson,MonsterInc,2001,Pixar
+37,Lee Unkrich,Joe Ranft,MonsterInc,2001,Pixar
+38,Lee Unkrich,Robert L. Baird,MonsterInc,2001,Pixar
+39,Lee Unkrich,Rhett Reese,MonsterInc,2001,Pixar
+40,Lee Unkrich,Jonathan Roberts,MonsterInc,2001,Pixar
+41,Lee Unkrich,Darla K. Anderson,MonsterInc,2001,Pixar
+42,Lee Unkrich,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+43,Lee Unkrich,John Lasseter,MonsterInc,2001,Pixar
+44,Lee Unkrich,Kori Rae,MonsterInc,2001,Pixar
+45,Jill Culton,Jeff Pidgeon,MonsterInc,2001,Pixar
+46,Jill Culton,Ralph Eggleston,MonsterInc,2001,Pixar
+47,Jill Culton,Andrew Stanton,MonsterInc,2001,Pixar
+48,Jill Culton,Daniel Gerson,MonsterInc,2001,Pixar
+49,Jill Culton,Bob Peterson,MonsterInc,2001,Pixar
+50,Jill Culton,Joe Ranft,MonsterInc,2001,Pixar
+51,Jill Culton,Robert L. Baird,MonsterInc,2001,Pixar
+52,Jill Culton,Rhett Reese,MonsterInc,2001,Pixar
+53,Jill Culton,Jonathan Roberts,MonsterInc,2001,Pixar
+54,Jill Culton,Darla K. Anderson,MonsterInc,2001,Pixar
+55,Jill Culton,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+56,Jill Culton,John Lasseter,MonsterInc,2001,Pixar
+57,Jill Culton,Kori Rae,MonsterInc,2001,Pixar
+58,Jeff Pidgeon,Ralph Eggleston,MonsterInc,2001,Pixar
+59,Jeff Pidgeon,Andrew Stanton,MonsterInc,2001,Pixar
+60,Jeff Pidgeon,Daniel Gerson,MonsterInc,2001,Pixar
+61,Jeff Pidgeon,Bob Peterson,MonsterInc,2001,Pixar
+62,Jeff Pidgeon,Joe Ranft,MonsterInc,2001,Pixar
+63,Jeff Pidgeon,Robert L. Baird,MonsterInc,2001,Pixar
+64,Jeff Pidgeon,Rhett Reese,MonsterInc,2001,Pixar
+65,Jeff Pidgeon,Jonathan Roberts,MonsterInc,2001,Pixar
+66,Jeff Pidgeon,Darla K. Anderson,MonsterInc,2001,Pixar
+67,Jeff Pidgeon,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+68,Jeff Pidgeon,John Lasseter,MonsterInc,2001,Pixar
+69,Jeff Pidgeon,Kori Rae,MonsterInc,2001,Pixar
+70,Ralph Eggleston,Andrew Stanton,MonsterInc,2001,Pixar
+71,Ralph Eggleston,Daniel Gerson,MonsterInc,2001,Pixar
+72,Ralph Eggleston,Bob Peterson,MonsterInc,2001,Pixar
+73,Ralph Eggleston,Joe Ranft,MonsterInc,2001,Pixar
+74,Ralph Eggleston,Robert L. Baird,MonsterInc,2001,Pixar
+75,Ralph Eggleston,Rhett Reese,MonsterInc,2001,Pixar
+76,Ralph Eggleston,Jonathan Roberts,MonsterInc,2001,Pixar
+77,Ralph Eggleston,Darla K. Anderson,MonsterInc,2001,Pixar
+78,Ralph Eggleston,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+79,Ralph Eggleston,John Lasseter,MonsterInc,2001,Pixar
+80,Ralph Eggleston,Kori Rae,MonsterInc,2001,Pixar
+81,Andrew Stanton,Daniel Gerson,MonsterInc,2001,Pixar
+82,Andrew Stanton,Bob Peterson,MonsterInc,2001,Pixar
+83,Andrew Stanton,Joe Ranft,MonsterInc,2001,Pixar
+84,Andrew Stanton,Robert L. Baird,MonsterInc,2001,Pixar
+85,Andrew Stanton,Rhett Reese,MonsterInc,2001,Pixar
+86,Andrew Stanton,Jonathan Roberts,MonsterInc,2001,Pixar
+87,Andrew Stanton,Darla K. Anderson,MonsterInc,2001,Pixar
+88,Andrew Stanton,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+89,Andrew Stanton,John Lasseter,MonsterInc,2001,Pixar
+90,Andrew Stanton,Kori Rae,MonsterInc,2001,Pixar
+91,Daniel Gerson,Bob Peterson,MonsterInc,2001,Pixar
+92,Daniel Gerson,Joe Ranft,MonsterInc,2001,Pixar
+93,Daniel Gerson,Robert L. Baird,MonsterInc,2001,Pixar
+94,Daniel Gerson,Rhett Reese,MonsterInc,2001,Pixar
+95,Daniel Gerson,Jonathan Roberts,MonsterInc,2001,Pixar
+96,Daniel Gerson,Darla K. Anderson,MonsterInc,2001,Pixar
+97,Daniel Gerson,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+98,Daniel Gerson,John Lasseter,MonsterInc,2001,Pixar
+99,Daniel Gerson,Kori Rae,MonsterInc,2001,Pixar
+100,Bob Peterson,Joe Ranft,MonsterInc,2001,Pixar
+101,Bob Peterson,Robert L. Baird,MonsterInc,2001,Pixar
+102,Bob Peterson,Rhett Reese,MonsterInc,2001,Pixar
+103,Bob Peterson,Jonathan Roberts,MonsterInc,2001,Pixar
+104,Bob Peterson,Darla K. Anderson,MonsterInc,2001,Pixar
+105,Bob Peterson,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+106,Bob Peterson,John Lasseter,MonsterInc,2001,Pixar
+107,Bob Peterson,Kori Rae,MonsterInc,2001,Pixar
+108,Joe Ranft,Robert L. Baird,MonsterInc,2001,Pixar
+109,Joe Ranft,Rhett Reese,MonsterInc,2001,Pixar
+110,Joe Ranft,Jonathan Roberts,MonsterInc,2001,Pixar
+111,Joe Ranft,Darla K. Anderson,MonsterInc,2001,Pixar
+112,Joe Ranft,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+113,Joe Ranft,John Lasseter,MonsterInc,2001,Pixar
+114,Joe Ranft,Kori Rae,MonsterInc,2001,Pixar
+115,Robert L. Baird,Rhett Reese,MonsterInc,2001,Pixar
+116,Robert L. Baird,Jonathan Roberts,MonsterInc,2001,Pixar
+117,Robert L. Baird,Darla K. Anderson,MonsterInc,2001,Pixar
+118,Robert L. Baird,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+119,Robert L. Baird,John Lasseter,MonsterInc,2001,Pixar
+120,Robert L. Baird,Kori Rae,MonsterInc,2001,Pixar
+121,Rhett Reese,Jonathan Roberts,MonsterInc,2001,Pixar
+122,Rhett Reese,Darla K. Anderson,MonsterInc,2001,Pixar
+123,Rhett Reese,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+124,Rhett Reese,John Lasseter,MonsterInc,2001,Pixar
+125,Rhett Reese,Kori Rae,MonsterInc,2001,Pixar
+126,Jonathan Roberts,Darla K. Anderson,MonsterInc,2001,Pixar
+127,Jonathan Roberts,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+128,Jonathan Roberts,John Lasseter,MonsterInc,2001,Pixar
+129,Jonathan Roberts,Kori Rae,MonsterInc,2001,Pixar
+130,Darla K. Anderson,Karen Dufilho-Rosen,MonsterInc,2001,Pixar
+131,Darla K. Anderson,John Lasseter,MonsterInc,2001,Pixar
+132,Darla K. Anderson,Kori Rae,MonsterInc,2001,Pixar
+133,Karen Dufilho-Rosen,John Lasseter,MonsterInc,2001,Pixar
+134,Karen Dufilho-Rosen,Kori Rae,MonsterInc,2001,Pixar
+135,John Lasseter,Kori Rae,MonsterInc,2001,Pixar
+0,Andrew Stanton,Lee Unkrich,FindNemo,2003,Pixar
+1,Andrew Stanton,Bob Peterson,FindNemo,2003,Pixar
+2,Andrew Stanton,David Reynolds,FindNemo,2003,Pixar
+3,Andrew Stanton,Jinko Gotoh,FindNemo,2003,Pixar
+4,Andrew Stanton,John Lasseter,FindNemo,2003,Pixar
+5,Andrew Stanton,Bradford Lewis,FindNemo,2003,Pixar
+6,Andrew Stanton,Graham Walters,FindNemo,2003,Pixar
+7,Lee Unkrich,Bob Peterson,FindNemo,2003,Pixar
+8,Lee Unkrich,David Reynolds,FindNemo,2003,Pixar
+9,Lee Unkrich,Jinko Gotoh,FindNemo,2003,Pixar
+10,Lee Unkrich,John Lasseter,FindNemo,2003,Pixar
+11,Lee Unkrich,Bradford Lewis,FindNemo,2003,Pixar
+12,Lee Unkrich,Graham Walters,FindNemo,2003,Pixar
+13,Bob Peterson,David Reynolds,FindNemo,2003,Pixar
+14,Bob Peterson,Jinko Gotoh,FindNemo,2003,Pixar
+15,Bob Peterson,John Lasseter,FindNemo,2003,Pixar
+16,Bob Peterson,Bradford Lewis,FindNemo,2003,Pixar
+17,Bob Peterson,Graham Walters,FindNemo,2003,Pixar
+18,David Reynolds,Jinko Gotoh,FindNemo,2003,Pixar
+19,David Reynolds,John Lasseter,FindNemo,2003,Pixar
+20,David Reynolds,Bradford Lewis,FindNemo,2003,Pixar
+21,David Reynolds,Graham Walters,FindNemo,2003,Pixar
+22,Jinko Gotoh,John Lasseter,FindNemo,2003,Pixar
+23,Jinko Gotoh,Bradford Lewis,FindNemo,2003,Pixar
+24,Jinko Gotoh,Graham Walters,FindNemo,2003,Pixar
+25,John Lasseter,Bradford Lewis,FindNemo,2003,Pixar
+26,John Lasseter,Graham Walters,FindNemo,2003,Pixar
+27,Bradford Lewis,Graham Walters,FindNemo,2003,Pixar
+0,Brad Bird,John Lasseter,Incred,2004,Pixar
+1,Brad Bird,Kori Rae,Incred,2004,Pixar
+2,Brad Bird,Katherine Sarafian,Incred,2004,Pixar
+3,Brad Bird,John Walker,Incred,2004,Pixar
+4,John Lasseter,Kori Rae,Incred,2004,Pixar
+5,John Lasseter,Katherine Sarafian,Incred,2004,Pixar
+6,John Lasseter,John Walker,Incred,2004,Pixar
+7,Kori Rae,Katherine Sarafian,Incred,2004,Pixar
+8,Kori Rae,John Walker,Incred,2004,Pixar
+9,Katherine Sarafian,John Walker,Incred,2004,Pixar
+0,John Lasseter,Joe Ranft,Cars,2006,Pixar
+1,John Lasseter,Jorgen Klubien,Cars,2006,Pixar
+2,John Lasseter,Dan Fogelman,Cars,2006,Pixar
+3,John Lasseter,Kiel Murray,Cars,2006,Pixar
+4,John Lasseter,Phil Lorin,Cars,2006,Pixar
+5,John Lasseter,Steve Purcell,Cars,2006,Pixar
+6,John Lasseter,Darla K. Anderson,Cars,2006,Pixar
+7,John Lasseter,Thomas Porter,Cars,2006,Pixar
+8,Joe Ranft,Jorgen Klubien,Cars,2006,Pixar
+9,Joe Ranft,Dan Fogelman,Cars,2006,Pixar
+10,Joe Ranft,Kiel Murray,Cars,2006,Pixar
+11,Joe Ranft,Phil Lorin,Cars,2006,Pixar
+12,Joe Ranft,Steve Purcell,Cars,2006,Pixar
+13,Joe Ranft,Darla K. Anderson,Cars,2006,Pixar
+14,Joe Ranft,Thomas Porter,Cars,2006,Pixar
+15,Jorgen Klubien,Dan Fogelman,Cars,2006,Pixar
+16,Jorgen Klubien,Kiel Murray,Cars,2006,Pixar
+17,Jorgen Klubien,Phil Lorin,Cars,2006,Pixar
+18,Jorgen Klubien,Steve Purcell,Cars,2006,Pixar
+19,Jorgen Klubien,Darla K. Anderson,Cars,2006,Pixar
+20,Jorgen Klubien,Thomas Porter,Cars,2006,Pixar
+21,Dan Fogelman,Kiel Murray,Cars,2006,Pixar
+22,Dan Fogelman,Phil Lorin,Cars,2006,Pixar
+23,Dan Fogelman,Steve Purcell,Cars,2006,Pixar
+24,Dan Fogelman,Darla K. Anderson,Cars,2006,Pixar
+25,Dan Fogelman,Thomas Porter,Cars,2006,Pixar
+26,Kiel Murray,Phil Lorin,Cars,2006,Pixar
+27,Kiel Murray,Steve Purcell,Cars,2006,Pixar
+28,Kiel Murray,Darla K. Anderson,Cars,2006,Pixar
+29,Kiel Murray,Thomas Porter,Cars,2006,Pixar
+30,Phil Lorin,Steve Purcell,Cars,2006,Pixar
+31,Phil Lorin,Darla K. Anderson,Cars,2006,Pixar
+32,Phil Lorin,Thomas Porter,Cars,2006,Pixar
+33,Steve Purcell,Darla K. Anderson,Cars,2006,Pixar
+34,Steve Purcell,Thomas Porter,Cars,2006,Pixar
+35,Darla K. Anderson,Thomas Porter,Cars,2006,Pixar
+0,Brad Bird,Jan Pinkava,Ratat,2007,Pixar
+1,Brad Bird,Jim Capobianco,Ratat,2007,Pixar
+2,Brad Bird,Emily Cook,Ratat,2007,Pixar
+3,Brad Bird,Kathy Greenberg,Ratat,2007,Pixar
+4,Brad Bird,Bob Peterson,Ratat,2007,Pixar
+5,Brad Bird,John Lasseter,Ratat,2007,Pixar
+6,Brad Bird,Bradford Lewis,Ratat,2007,Pixar
+7,Brad Bird,Andrew Stanton,Ratat,2007,Pixar
+8,Brad Bird,Galyn Susman,Ratat,2007,Pixar
+9,Jan Pinkava,Jim Capobianco,Ratat,2007,Pixar
+10,Jan Pinkava,Emily Cook,Ratat,2007,Pixar
+11,Jan Pinkava,Kathy Greenberg,Ratat,2007,Pixar
+12,Jan Pinkava,Bob Peterson,Ratat,2007,Pixar
+13,Jan Pinkava,John Lasseter,Ratat,2007,Pixar
+14,Jan Pinkava,Bradford Lewis,Ratat,2007,Pixar
+15,Jan Pinkava,Andrew Stanton,Ratat,2007,Pixar
+16,Jan Pinkava,Galyn Susman,Ratat,2007,Pixar
+17,Jim Capobianco,Emily Cook,Ratat,2007,Pixar
+18,Jim Capobianco,Kathy Greenberg,Ratat,2007,Pixar
+19,Jim Capobianco,Bob Peterson,Ratat,2007,Pixar
+20,Jim Capobianco,John Lasseter,Ratat,2007,Pixar
+21,Jim Capobianco,Bradford Lewis,Ratat,2007,Pixar
+22,Jim Capobianco,Andrew Stanton,Ratat,2007,Pixar
+23,Jim Capobianco,Galyn Susman,Ratat,2007,Pixar
+24,Emily Cook,Kathy Greenberg,Ratat,2007,Pixar
+25,Emily Cook,Bob Peterson,Ratat,2007,Pixar
+26,Emily Cook,John Lasseter,Ratat,2007,Pixar
+27,Emily Cook,Bradford Lewis,Ratat,2007,Pixar
+28,Emily Cook,Andrew Stanton,Ratat,2007,Pixar
+29,Emily Cook,Galyn Susman,Ratat,2007,Pixar
+30,Kathy Greenberg,Bob Peterson,Ratat,2007,Pixar
+31,Kathy Greenberg,John Lasseter,Ratat,2007,Pixar
+32,Kathy Greenberg,Bradford Lewis,Ratat,2007,Pixar
+33,Kathy Greenberg,Andrew Stanton,Ratat,2007,Pixar
+34,Kathy Greenberg,Galyn Susman,Ratat,2007,Pixar
+35,Bob Peterson,John Lasseter,Ratat,2007,Pixar
+36,Bob Peterson,Bradford Lewis,Ratat,2007,Pixar
+37,Bob Peterson,Andrew Stanton,Ratat,2007,Pixar
+38,Bob Peterson,Galyn Susman,Ratat,2007,Pixar
+39,John Lasseter,Bradford Lewis,Ratat,2007,Pixar
+40,John Lasseter,Andrew Stanton,Ratat,2007,Pixar
+41,John Lasseter,Galyn Susman,Ratat,2007,Pixar
+42,Bradford Lewis,Andrew Stanton,Ratat,2007,Pixar
+43,Bradford Lewis,Galyn Susman,Ratat,2007,Pixar
+44,Andrew Stanton,Galyn Susman,Ratat,2007,Pixar
+0,Pete Docter,Bob Peterson,Up,2009,Pixar
+1,Pete Docter,Tom McCarthy,Up,2009,Pixar
+2,Pete Docter,John Lasseter,Up,2009,Pixar
+3,Pete Docter,Kori Rae,Up,2009,Pixar
+4,Pete Docter,Denise Ream,Up,2009,Pixar
+5,Pete Docter,Jonas Rivera,Up,2009,Pixar
+6,Pete Docter,Andrew Stanton,Up,2009,Pixar
+7,Bob Peterson,Tom McCarthy,Up,2009,Pixar
+8,Bob Peterson,John Lasseter,Up,2009,Pixar
+9,Bob Peterson,Kori Rae,Up,2009,Pixar
+10,Bob Peterson,Denise Ream,Up,2009,Pixar
+11,Bob Peterson,Jonas Rivera,Up,2009,Pixar
+12,Bob Peterson,Andrew Stanton,Up,2009,Pixar
+13,Tom McCarthy,John Lasseter,Up,2009,Pixar
+14,Tom McCarthy,Kori Rae,Up,2009,Pixar
+15,Tom McCarthy,Denise Ream,Up,2009,Pixar
+16,Tom McCarthy,Jonas Rivera,Up,2009,Pixar
+17,Tom McCarthy,Andrew Stanton,Up,2009,Pixar
+18,John Lasseter,Kori Rae,Up,2009,Pixar
+19,John Lasseter,Denise Ream,Up,2009,Pixar
+20,John Lasseter,Jonas Rivera,Up,2009,Pixar
+21,John Lasseter,Andrew Stanton,Up,2009,Pixar
+22,Kori Rae,Denise Ream,Up,2009,Pixar
+23,Kori Rae,Jonas Rivera,Up,2009,Pixar
+24,Kori Rae,Andrew Stanton,Up,2009,Pixar
+25,Denise Ream,Jonas Rivera,Up,2009,Pixar
+26,Denise Ream,Andrew Stanton,Up,2009,Pixar
+27,Jonas Rivera,Andrew Stanton,Up,2009,Pixar
+0,Andrew Stanton,Pete Docter,WallE,2008,Pixar
+1,Andrew Stanton,Jim Reardon,WallE,2008,Pixar
+2,Andrew Stanton,Lindsey Collins,WallE,2008,Pixar
+3,Andrew Stanton,John Lasseter,WallE,2008,Pixar
+4,Andrew Stanton,Gillian Libbert,WallE,2008,Pixar
+5,Andrew Stanton,Chris Montan,WallE,2008,Pixar
+6,Andrew Stanton,Jim Morris,WallE,2008,Pixar
+7,Andrew Stanton,Thomas Porter,WallE,2008,Pixar
+8,Pete Docter,Jim Reardon,WallE,2008,Pixar
+9,Pete Docter,Lindsey Collins,WallE,2008,Pixar
+10,Pete Docter,John Lasseter,WallE,2008,Pixar
+11,Pete Docter,Gillian Libbert,WallE,2008,Pixar
+12,Pete Docter,Chris Montan,WallE,2008,Pixar
+13,Pete Docter,Jim Morris,WallE,2008,Pixar
+14,Pete Docter,Thomas Porter,WallE,2008,Pixar
+15,Jim Reardon,Lindsey Collins,WallE,2008,Pixar
+16,Jim Reardon,John Lasseter,WallE,2008,Pixar
+17,Jim Reardon,Gillian Libbert,WallE,2008,Pixar
+18,Jim Reardon,Chris Montan,WallE,2008,Pixar
+19,Jim Reardon,Jim Morris,WallE,2008,Pixar
+20,Jim Reardon,Thomas Porter,WallE,2008,Pixar
+21,Lindsey Collins,John Lasseter,WallE,2008,Pixar
+22,Lindsey Collins,Gillian Libbert,WallE,2008,Pixar
+23,Lindsey Collins,Chris Montan,WallE,2008,Pixar
+24,Lindsey Collins,Jim Morris,WallE,2008,Pixar
+25,Lindsey Collins,Thomas Porter,WallE,2008,Pixar
+26,John Lasseter,Gillian Libbert,WallE,2008,Pixar
+27,John Lasseter,Chris Montan,WallE,2008,Pixar
+28,John Lasseter,Jim Morris,WallE,2008,Pixar
+29,John Lasseter,Thomas Porter,WallE,2008,Pixar
+30,Gillian Libbert,Chris Montan,WallE,2008,Pixar
+31,Gillian Libbert,Jim Morris,WallE,2008,Pixar
+32,Gillian Libbert,Thomas Porter,WallE,2008,Pixar
+33,Chris Montan,Jim Morris,WallE,2008,Pixar
+34,Chris Montan,Thomas Porter,WallE,2008,Pixar
+35,Jim Morris,Thomas Porter,WallE,2008,Pixar
+0,Lee Unkrich,John Lasseter,ToyStory3,2010,Pixar
+1,Lee Unkrich,Andrew Stanton,ToyStory3,2010,Pixar
+2,Lee Unkrich,Michael Arndt,ToyStory3,2010,Pixar
+3,Lee Unkrich,Darla K. Anderson,ToyStory3,2010,Pixar
+4,Lee Unkrich,Nicole Paradis Grindle,ToyStory3,2010,Pixar
+5,John Lasseter,Andrew Stanton,ToyStory3,2010,Pixar
+6,John Lasseter,Michael Arndt,ToyStory3,2010,Pixar
+7,John Lasseter,Darla K. Anderson,ToyStory3,2010,Pixar
+8,John Lasseter,Nicole Paradis Grindle,ToyStory3,2010,Pixar
+9,Andrew Stanton,Michael Arndt,ToyStory3,2010,Pixar
+10,Andrew Stanton,Darla K. Anderson,ToyStory3,2010,Pixar
+11,Andrew Stanton,Nicole Paradis Grindle,ToyStory3,2010,Pixar
+12,Michael Arndt,Darla K. Anderson,ToyStory3,2010,Pixar
+13,Michael Arndt,Nicole Paradis Grindle,ToyStory3,2010,Pixar
+14,Darla K. Anderson,Nicole Paradis Grindle,ToyStory3,2010,Pixar
+0,John Lasseter,Bradford Lewis,Cars2,2011,Pixar
+1,John Lasseter,Dan Fogelman,Cars2,2011,Pixar
+2,John Lasseter,Ben Queen,Cars2,2011,Pixar
+3,John Lasseter,Mark Nielsen,Cars2,2011,Pixar
+4,John Lasseter,Denise Ream,Cars2,2011,Pixar
+5,Bradford Lewis,Dan Fogelman,Cars2,2011,Pixar
+6,Bradford Lewis,Ben Queen,Cars2,2011,Pixar
+7,Bradford Lewis,Mark Nielsen,Cars2,2011,Pixar
+8,Bradford Lewis,Denise Ream,Cars2,2011,Pixar
+9,Dan Fogelman,Ben Queen,Cars2,2011,Pixar
+10,Dan Fogelman,Mark Nielsen,Cars2,2011,Pixar
+11,Dan Fogelman,Denise Ream,Cars2,2011,Pixar
+12,Ben Queen,Mark Nielsen,Cars2,2011,Pixar
+13,Ben Queen,Denise Ream,Cars2,2011,Pixar
+14,Mark Nielsen,Denise Ream,Cars2,2011,Pixar
+0,Mark Andrews,Brenda Chapman,Brave,2012,Pixar
+1,Mark Andrews,Steve Purcell,Brave,2012,Pixar
+2,Mark Andrews,Irene Mecchi,Brave,2012,Pixar
+3,Mark Andrews,Pete Docter,Brave,2012,Pixar
+4,Mark Andrews,Mary Alice Drumm,Brave,2012,Pixar
+5,Mark Andrews,John Lasseter,Brave,2012,Pixar
+6,Mark Andrews,Katherine Sarafian,Brave,2012,Pixar
+7,Mark Andrews,Andrew Stanton,Brave,2012,Pixar
+8,Brenda Chapman,Steve Purcell,Brave,2012,Pixar
+9,Brenda Chapman,Irene Mecchi,Brave,2012,Pixar
+10,Brenda Chapman,Pete Docter,Brave,2012,Pixar
+11,Brenda Chapman,Mary Alice Drumm,Brave,2012,Pixar
+12,Brenda Chapman,John Lasseter,Brave,2012,Pixar
+13,Brenda Chapman,Katherine Sarafian,Brave,2012,Pixar
+14,Brenda Chapman,Andrew Stanton,Brave,2012,Pixar
+15,Steve Purcell,Irene Mecchi,Brave,2012,Pixar
+16,Steve Purcell,Pete Docter,Brave,2012,Pixar
+17,Steve Purcell,Mary Alice Drumm,Brave,2012,Pixar
+18,Steve Purcell,John Lasseter,Brave,2012,Pixar
+19,Steve Purcell,Katherine Sarafian,Brave,2012,Pixar
+20,Steve Purcell,Andrew Stanton,Brave,2012,Pixar
+21,Irene Mecchi,Pete Docter,Brave,2012,Pixar
+22,Irene Mecchi,Mary Alice Drumm,Brave,2012,Pixar
+23,Irene Mecchi,John Lasseter,Brave,2012,Pixar
+24,Irene Mecchi,Katherine Sarafian,Brave,2012,Pixar
+25,Irene Mecchi,Andrew Stanton,Brave,2012,Pixar
+26,Pete Docter,Mary Alice Drumm,Brave,2012,Pixar
+27,Pete Docter,John Lasseter,Brave,2012,Pixar
+28,Pete Docter,Katherine Sarafian,Brave,2012,Pixar
+29,Pete Docter,Andrew Stanton,Brave,2012,Pixar
+30,Mary Alice Drumm,John Lasseter,Brave,2012,Pixar
+31,Mary Alice Drumm,Katherine Sarafian,Brave,2012,Pixar
+32,Mary Alice Drumm,Andrew Stanton,Brave,2012,Pixar
+33,John Lasseter,Katherine Sarafian,Brave,2012,Pixar
+34,John Lasseter,Andrew Stanton,Brave,2012,Pixar
+35,Katherine Sarafian,Andrew Stanton,Brave,2012,Pixar
+0,Dan Scanlon,Daniel Gerson,MonsU,2013,Pixar
+1,Dan Scanlon,Robert L. Baird,MonsU,2013,Pixar
+2,Dan Scanlon,Adrian Molina,MonsU,2013,Pixar
+3,Dan Scanlon,Pete Docter,MonsU,2013,Pixar
+4,Dan Scanlon,John Lasseter,MonsU,2013,Pixar
+5,Dan Scanlon,Nicole Paradis Grindle,MonsU,2013,Pixar
+6,Dan Scanlon,Kori Rae,MonsU,2013,Pixar
+7,Dan Scanlon,Andrew Stanton,MonsU,2013,Pixar
+8,Dan Scanlon,Lee Unkrich,MonsU,2013,Pixar
+9,Daniel Gerson,Robert L. Baird,MonsU,2013,Pixar
+10,Daniel Gerson,Adrian Molina,MonsU,2013,Pixar
+11,Daniel Gerson,Pete Docter,MonsU,2013,Pixar
+12,Daniel Gerson,John Lasseter,MonsU,2013,Pixar
+13,Daniel Gerson,Nicole Paradis Grindle,MonsU,2013,Pixar
+14,Daniel Gerson,Kori Rae,MonsU,2013,Pixar
+15,Daniel Gerson,Andrew Stanton,MonsU,2013,Pixar
+16,Daniel Gerson,Lee Unkrich,MonsU,2013,Pixar
+17,Robert L. Baird,Adrian Molina,MonsU,2013,Pixar
+18,Robert L. Baird,Pete Docter,MonsU,2013,Pixar
+19,Robert L. Baird,John Lasseter,MonsU,2013,Pixar
+20,Robert L. Baird,Nicole Paradis Grindle,MonsU,2013,Pixar
+21,Robert L. Baird,Kori Rae,MonsU,2013,Pixar
+22,Robert L. Baird,Andrew Stanton,MonsU,2013,Pixar
+23,Robert L. Baird,Lee Unkrich,MonsU,2013,Pixar
+24,Adrian Molina,Pete Docter,MonsU,2013,Pixar
+25,Adrian Molina,John Lasseter,MonsU,2013,Pixar
+26,Adrian Molina,Nicole Paradis Grindle,MonsU,2013,Pixar
+27,Adrian Molina,Kori Rae,MonsU,2013,Pixar
+28,Adrian Molina,Andrew Stanton,MonsU,2013,Pixar
+29,Adrian Molina,Lee Unkrich,MonsU,2013,Pixar
+30,Pete Docter,John Lasseter,MonsU,2013,Pixar
+31,Pete Docter,Nicole Paradis Grindle,MonsU,2013,Pixar
+32,Pete Docter,Kori Rae,MonsU,2013,Pixar
+33,Pete Docter,Andrew Stanton,MonsU,2013,Pixar
+34,Pete Docter,Lee Unkrich,MonsU,2013,Pixar
+35,John Lasseter,Nicole Paradis Grindle,MonsU,2013,Pixar
+36,John Lasseter,Kori Rae,MonsU,2013,Pixar
+37,John Lasseter,Andrew Stanton,MonsU,2013,Pixar
+38,John Lasseter,Lee Unkrich,MonsU,2013,Pixar
+39,Nicole Paradis Grindle,Kori Rae,MonsU,2013,Pixar
+40,Nicole Paradis Grindle,Andrew Stanton,MonsU,2013,Pixar
+41,Nicole Paradis Grindle,Lee Unkrich,MonsU,2013,Pixar
+42,Kori Rae,Andrew Stanton,MonsU,2013,Pixar
+43,Kori Rae,Lee Unkrich,MonsU,2013,Pixar
+44,Andrew Stanton,Lee Unkrich,MonsU,2013,Pixar
+0,Pete Docter,Ronnie Del Carmen,InsideOut,2015,Pixar
+1,Pete Docter,Meg LeFauve,InsideOut,2015,Pixar
+2,Pete Docter,Josh Cooley,InsideOut,2015,Pixar
+3,Pete Docter,Michael Arndt,InsideOut,2015,Pixar
+4,Pete Docter,Simon Rich,InsideOut,2015,Pixar
+5,Pete Docter,Bill Hader,InsideOut,2015,Pixar
+6,Pete Docter,Amy Poehler,InsideOut,2015,Pixar
+7,Pete Docter,John Lasseter,InsideOut,2015,Pixar
+8,Pete Docter,Mark Nielsen,InsideOut,2015,Pixar
+9,Pete Docter,Jonas Rivera,InsideOut,2015,Pixar
+10,Pete Docter,Andrew Stanton,InsideOut,2015,Pixar
+11,Ronnie Del Carmen,Meg LeFauve,InsideOut,2015,Pixar
+12,Ronnie Del Carmen,Josh Cooley,InsideOut,2015,Pixar
+13,Ronnie Del Carmen,Michael Arndt,InsideOut,2015,Pixar
+14,Ronnie Del Carmen,Simon Rich,InsideOut,2015,Pixar
+15,Ronnie Del Carmen,Bill Hader,InsideOut,2015,Pixar
+16,Ronnie Del Carmen,Amy Poehler,InsideOut,2015,Pixar
+17,Ronnie Del Carmen,John Lasseter,InsideOut,2015,Pixar
+18,Ronnie Del Carmen,Mark Nielsen,InsideOut,2015,Pixar
+19,Ronnie Del Carmen,Jonas Rivera,InsideOut,2015,Pixar
+20,Ronnie Del Carmen,Andrew Stanton,InsideOut,2015,Pixar
+21,Meg LeFauve,Josh Cooley,InsideOut,2015,Pixar
+22,Meg LeFauve,Michael Arndt,InsideOut,2015,Pixar
+23,Meg LeFauve,Simon Rich,InsideOut,2015,Pixar
+24,Meg LeFauve,Bill Hader,InsideOut,2015,Pixar
+25,Meg LeFauve,Amy Poehler,InsideOut,2015,Pixar
+26,Meg LeFauve,John Lasseter,InsideOut,2015,Pixar
+27,Meg LeFauve,Mark Nielsen,InsideOut,2015,Pixar
+28,Meg LeFauve,Jonas Rivera,InsideOut,2015,Pixar
+29,Meg LeFauve,Andrew Stanton,InsideOut,2015,Pixar
+30,Josh Cooley,Michael Arndt,InsideOut,2015,Pixar
+31,Josh Cooley,Simon Rich,InsideOut,2015,Pixar
+32,Josh Cooley,Bill Hader,InsideOut,2015,Pixar
+33,Josh Cooley,Amy Poehler,InsideOut,2015,Pixar
+34,Josh Cooley,John Lasseter,InsideOut,2015,Pixar
+35,Josh Cooley,Mark Nielsen,InsideOut,2015,Pixar
+36,Josh Cooley,Jonas Rivera,InsideOut,2015,Pixar
+37,Josh Cooley,Andrew Stanton,InsideOut,2015,Pixar
+38,Michael Arndt,Simon Rich,InsideOut,2015,Pixar
+39,Michael Arndt,Bill Hader,InsideOut,2015,Pixar
+40,Michael Arndt,Amy Poehler,InsideOut,2015,Pixar
+41,Michael Arndt,John Lasseter,InsideOut,2015,Pixar
+42,Michael Arndt,Mark Nielsen,InsideOut,2015,Pixar
+43,Michael Arndt,Jonas Rivera,InsideOut,2015,Pixar
+44,Michael Arndt,Andrew Stanton,InsideOut,2015,Pixar
+45,Simon Rich,Bill Hader,InsideOut,2015,Pixar
+46,Simon Rich,Amy Poehler,InsideOut,2015,Pixar
+47,Simon Rich,John Lasseter,InsideOut,2015,Pixar
+48,Simon Rich,Mark Nielsen,InsideOut,2015,Pixar
+49,Simon Rich,Jonas Rivera,InsideOut,2015,Pixar
+50,Simon Rich,Andrew Stanton,InsideOut,2015,Pixar
+51,Bill Hader,Amy Poehler,InsideOut,2015,Pixar
+52,Bill Hader,John Lasseter,InsideOut,2015,Pixar
+53,Bill Hader,Mark Nielsen,InsideOut,2015,Pixar
+54,Bill Hader,Jonas Rivera,InsideOut,2015,Pixar
+55,Bill Hader,Andrew Stanton,InsideOut,2015,Pixar
+56,Amy Poehler,John Lasseter,InsideOut,2015,Pixar
+57,Amy Poehler,Mark Nielsen,InsideOut,2015,Pixar
+58,Amy Poehler,Jonas Rivera,InsideOut,2015,Pixar
+59,Amy Poehler,Andrew Stanton,InsideOut,2015,Pixar
+60,John Lasseter,Mark Nielsen,InsideOut,2015,Pixar
+61,John Lasseter,Jonas Rivera,InsideOut,2015,Pixar
+62,John Lasseter,Andrew Stanton,InsideOut,2015,Pixar
+63,Mark Nielsen,Jonas Rivera,InsideOut,2015,Pixar
+64,Mark Nielsen,Andrew Stanton,InsideOut,2015,Pixar
+65,Jonas Rivera,Andrew Stanton,InsideOut,2015,Pixar
+0,Peter Sohn,Bob Peterson,GoodDino,2015,Pixar
+1,Peter Sohn,Erik Benson,GoodDino,2015,Pixar
+2,Peter Sohn,Meg LeFauve,GoodDino,2015,Pixar
+3,Peter Sohn,Kelsey Mann,GoodDino,2015,Pixar
+4,Peter Sohn,Peter Hedges,GoodDino,2015,Pixar
+5,Peter Sohn,Adrian Molina,GoodDino,2015,Pixar
+6,Peter Sohn,Mary Alice Drumm,GoodDino,2015,Pixar
+7,Peter Sohn,John Lasseter,GoodDino,2015,Pixar
+8,Peter Sohn,Denise Ream,GoodDino,2015,Pixar
+9,Peter Sohn,Andrew Stanton,GoodDino,2015,Pixar
+10,Peter Sohn,Lee Unkrich,GoodDino,2015,Pixar
+11,Bob Peterson,Erik Benson,GoodDino,2015,Pixar
+12,Bob Peterson,Meg LeFauve,GoodDino,2015,Pixar
+13,Bob Peterson,Kelsey Mann,GoodDino,2015,Pixar
+14,Bob Peterson,Peter Hedges,GoodDino,2015,Pixar
+15,Bob Peterson,Adrian Molina,GoodDino,2015,Pixar
+16,Bob Peterson,Mary Alice Drumm,GoodDino,2015,Pixar
+17,Bob Peterson,John Lasseter,GoodDino,2015,Pixar
+18,Bob Peterson,Denise Ream,GoodDino,2015,Pixar
+19,Bob Peterson,Andrew Stanton,GoodDino,2015,Pixar
+20,Bob Peterson,Lee Unkrich,GoodDino,2015,Pixar
+21,Erik Benson,Meg LeFauve,GoodDino,2015,Pixar
+22,Erik Benson,Kelsey Mann,GoodDino,2015,Pixar
+23,Erik Benson,Peter Hedges,GoodDino,2015,Pixar
+24,Erik Benson,Adrian Molina,GoodDino,2015,Pixar
+25,Erik Benson,Mary Alice Drumm,GoodDino,2015,Pixar
+26,Erik Benson,John Lasseter,GoodDino,2015,Pixar
+27,Erik Benson,Denise Ream,GoodDino,2015,Pixar
+28,Erik Benson,Andrew Stanton,GoodDino,2015,Pixar
+29,Erik Benson,Lee Unkrich,GoodDino,2015,Pixar
+30,Meg LeFauve,Kelsey Mann,GoodDino,2015,Pixar
+31,Meg LeFauve,Peter Hedges,GoodDino,2015,Pixar
+32,Meg LeFauve,Adrian Molina,GoodDino,2015,Pixar
+33,Meg LeFauve,Mary Alice Drumm,GoodDino,2015,Pixar
+34,Meg LeFauve,John Lasseter,GoodDino,2015,Pixar
+35,Meg LeFauve,Denise Ream,GoodDino,2015,Pixar
+36,Meg LeFauve,Andrew Stanton,GoodDino,2015,Pixar
+37,Meg LeFauve,Lee Unkrich,GoodDino,2015,Pixar
+38,Kelsey Mann,Peter Hedges,GoodDino,2015,Pixar
+39,Kelsey Mann,Adrian Molina,GoodDino,2015,Pixar
+40,Kelsey Mann,Mary Alice Drumm,GoodDino,2015,Pixar
+41,Kelsey Mann,John Lasseter,GoodDino,2015,Pixar
+42,Kelsey Mann,Denise Ream,GoodDino,2015,Pixar
+43,Kelsey Mann,Andrew Stanton,GoodDino,2015,Pixar
+44,Kelsey Mann,Lee Unkrich,GoodDino,2015,Pixar
+45,Peter Hedges,Adrian Molina,GoodDino,2015,Pixar
+46,Peter Hedges,Mary Alice Drumm,GoodDino,2015,Pixar
+47,Peter Hedges,John Lasseter,GoodDino,2015,Pixar
+48,Peter Hedges,Denise Ream,GoodDino,2015,Pixar
+49,Peter Hedges,Andrew Stanton,GoodDino,2015,Pixar
+50,Peter Hedges,Lee Unkrich,GoodDino,2015,Pixar
+51,Adrian Molina,Mary Alice Drumm,GoodDino,2015,Pixar
+52,Adrian Molina,John Lasseter,GoodDino,2015,Pixar
+53,Adrian Molina,Denise Ream,GoodDino,2015,Pixar
+54,Adrian Molina,Andrew Stanton,GoodDino,2015,Pixar
+55,Adrian Molina,Lee Unkrich,GoodDino,2015,Pixar
+56,Mary Alice Drumm,John Lasseter,GoodDino,2015,Pixar
+57,Mary Alice Drumm,Denise Ream,GoodDino,2015,Pixar
+58,Mary Alice Drumm,Andrew Stanton,GoodDino,2015,Pixar
+59,Mary Alice Drumm,Lee Unkrich,GoodDino,2015,Pixar
+60,John Lasseter,Denise Ream,GoodDino,2015,Pixar
+61,John Lasseter,Andrew Stanton,GoodDino,2015,Pixar
+62,John Lasseter,Lee Unkrich,GoodDino,2015,Pixar
+63,Denise Ream,Andrew Stanton,GoodDino,2015,Pixar
+64,Denise Ream,Lee Unkrich,GoodDino,2015,Pixar
+65,Andrew Stanton,Lee Unkrich,GoodDino,2015,Pixar
+0,Andrew Stanton,Angus MacLane,FindDory,2016,Pixar
+1,Andrew Stanton,Victoria Strouse,FindDory,2016,Pixar
+2,Andrew Stanton,Bob Peterson,FindDory,2016,Pixar
+3,Andrew Stanton,Lindsey Collins,FindDory,2016,Pixar
+4,Andrew Stanton,John Lasseter,FindDory,2016,Pixar
+5,Andrew Stanton,Bob Roath,FindDory,2016,Pixar
+6,Angus MacLane,Victoria Strouse,FindDory,2016,Pixar
+7,Angus MacLane,Bob Peterson,FindDory,2016,Pixar
+8,Angus MacLane,Lindsey Collins,FindDory,2016,Pixar
+9,Angus MacLane,John Lasseter,FindDory,2016,Pixar
+10,Angus MacLane,Bob Roath,FindDory,2016,Pixar
+11,Victoria Strouse,Bob Peterson,FindDory,2016,Pixar
+12,Victoria Strouse,Lindsey Collins,FindDory,2016,Pixar
+13,Victoria Strouse,John Lasseter,FindDory,2016,Pixar
+14,Victoria Strouse,Bob Roath,FindDory,2016,Pixar
+15,Bob Peterson,Lindsey Collins,FindDory,2016,Pixar
+16,Bob Peterson,John Lasseter,FindDory,2016,Pixar
+17,Bob Peterson,Bob Roath,FindDory,2016,Pixar
+18,Lindsey Collins,John Lasseter,FindDory,2016,Pixar
+19,Lindsey Collins,Bob Roath,FindDory,2016,Pixar
+20,John Lasseter,Bob Roath,FindDory,2016,Pixar
+0,Brian Fee,Ben Queen,Cars3,2017,Pixar
+1,Brian Fee,Eyal Podell,Cars3,2017,Pixar
+2,Brian Fee,Jonathon E. Stewart,Cars3,2017,Pixar
+3,Brian Fee,Kiel Murray,Cars3,2017,Pixar
+4,Brian Fee,Bob Peterson,Cars3,2017,Pixar
+5,Brian Fee,Mike Rich,Cars3,2017,Pixar
+6,Brian Fee,Scott Morse,Cars3,2017,Pixar
+7,Brian Fee,John Lasseter,Cars3,2017,Pixar
+8,Brian Fee,Kevin Reher,Cars3,2017,Pixar
+9,Brian Fee,Andrea Warren,Cars3,2017,Pixar
+10,Ben Queen,Eyal Podell,Cars3,2017,Pixar
+11,Ben Queen,Jonathon E. Stewart,Cars3,2017,Pixar
+12,Ben Queen,Kiel Murray,Cars3,2017,Pixar
+13,Ben Queen,Bob Peterson,Cars3,2017,Pixar
+14,Ben Queen,Mike Rich,Cars3,2017,Pixar
+15,Ben Queen,Scott Morse,Cars3,2017,Pixar
+16,Ben Queen,John Lasseter,Cars3,2017,Pixar
+17,Ben Queen,Kevin Reher,Cars3,2017,Pixar
+18,Ben Queen,Andrea Warren,Cars3,2017,Pixar
+19,Eyal Podell,Jonathon E. Stewart,Cars3,2017,Pixar
+20,Eyal Podell,Kiel Murray,Cars3,2017,Pixar
+21,Eyal Podell,Bob Peterson,Cars3,2017,Pixar
+22,Eyal Podell,Mike Rich,Cars3,2017,Pixar
+23,Eyal Podell,Scott Morse,Cars3,2017,Pixar
+24,Eyal Podell,John Lasseter,Cars3,2017,Pixar
+25,Eyal Podell,Kevin Reher,Cars3,2017,Pixar
+26,Eyal Podell,Andrea Warren,Cars3,2017,Pixar
+27,Jonathon E. Stewart,Kiel Murray,Cars3,2017,Pixar
+28,Jonathon E. Stewart,Bob Peterson,Cars3,2017,Pixar
+29,Jonathon E. Stewart,Mike Rich,Cars3,2017,Pixar
+30,Jonathon E. Stewart,Scott Morse,Cars3,2017,Pixar
+31,Jonathon E. Stewart,John Lasseter,Cars3,2017,Pixar
+32,Jonathon E. Stewart,Kevin Reher,Cars3,2017,Pixar
+33,Jonathon E. Stewart,Andrea Warren,Cars3,2017,Pixar
+34,Kiel Murray,Bob Peterson,Cars3,2017,Pixar
+35,Kiel Murray,Mike Rich,Cars3,2017,Pixar
+36,Kiel Murray,Scott Morse,Cars3,2017,Pixar
+37,Kiel Murray,John Lasseter,Cars3,2017,Pixar
+38,Kiel Murray,Kevin Reher,Cars3,2017,Pixar
+39,Kiel Murray,Andrea Warren,Cars3,2017,Pixar
+40,Bob Peterson,Mike Rich,Cars3,2017,Pixar
+41,Bob Peterson,Scott Morse,Cars3,2017,Pixar
+42,Bob Peterson,John Lasseter,Cars3,2017,Pixar
+43,Bob Peterson,Kevin Reher,Cars3,2017,Pixar
+44,Bob Peterson,Andrea Warren,Cars3,2017,Pixar
+45,Mike Rich,Scott Morse,Cars3,2017,Pixar
+46,Mike Rich,John Lasseter,Cars3,2017,Pixar
+47,Mike Rich,Kevin Reher,Cars3,2017,Pixar
+48,Mike Rich,Andrea Warren,Cars3,2017,Pixar
+49,Scott Morse,John Lasseter,Cars3,2017,Pixar
+50,Scott Morse,Kevin Reher,Cars3,2017,Pixar
+51,Scott Morse,Andrea Warren,Cars3,2017,Pixar
+52,John Lasseter,Kevin Reher,Cars3,2017,Pixar
+53,John Lasseter,Andrea Warren,Cars3,2017,Pixar
+54,Kevin Reher,Andrea Warren,Cars3,2017,Pixar
+0,Lee Unkrich,Adrian Molina,CoCo,2017,Pixar
+1,Lee Unkrich,Jason Katz,CoCo,2017,Pixar
+2,Lee Unkrich,Matthew Aldrich,CoCo,2017,Pixar
+3,Lee Unkrich,Darla K. Anderson,CoCo,2017,Pixar
+4,Lee Unkrich,Mary Alice Drumm,CoCo,2017,Pixar
+5,Lee Unkrich,John Lasseter,CoCo,2017,Pixar
+6,Adrian Molina,Jason Katz,CoCo,2017,Pixar
+7,Adrian Molina,Matthew Aldrich,CoCo,2017,Pixar
+8,Adrian Molina,Darla K. Anderson,CoCo,2017,Pixar
+9,Adrian Molina,Mary Alice Drumm,CoCo,2017,Pixar
+10,Adrian Molina,John Lasseter,CoCo,2017,Pixar
+11,Jason Katz,Matthew Aldrich,CoCo,2017,Pixar
+12,Jason Katz,Darla K. Anderson,CoCo,2017,Pixar
+13,Jason Katz,Mary Alice Drumm,CoCo,2017,Pixar
+14,Jason Katz,John Lasseter,CoCo,2017,Pixar
+15,Matthew Aldrich,Darla K. Anderson,CoCo,2017,Pixar
+16,Matthew Aldrich,Mary Alice Drumm,CoCo,2017,Pixar
+17,Matthew Aldrich,John Lasseter,CoCo,2017,Pixar
+18,Darla K. Anderson,Mary Alice Drumm,CoCo,2017,Pixar
+19,Darla K. Anderson,John Lasseter,CoCo,2017,Pixar
+20,Mary Alice Drumm,John Lasseter,CoCo,2017,Pixar
+0,Brad Bird,John Lasseter,Incred2,2018,Pixar
+1,Brad Bird,Nicole Paradis Grindle,Incred2,2018,Pixar
+2,Brad Bird,John Walker,Incred2,2018,Pixar
+3,John Lasseter,Nicole Paradis Grindle,Incred2,2018,Pixar
+4,John Lasseter,John Walker,Incred2,2018,Pixar
+5,Nicole Paradis Grindle,John Walker,Incred2,2018,Pixar
+0,Josh Cooley,John Lasseter,ToyStory4,2019,Pixar
+1,Josh Cooley,Andrew Stanton,ToyStory4,2019,Pixar
+2,Josh Cooley,Valerie LaPointe,ToyStory4,2019,Pixar
+3,Josh Cooley,Rashida Jones,ToyStory4,2019,Pixar
+4,Josh Cooley,Will McCormack,ToyStory4,2019,Pixar
+5,Josh Cooley,Martin Hynes,ToyStory4,2019,Pixar
+6,Josh Cooley,Stephany Folsom,ToyStory4,2019,Pixar
+7,Josh Cooley,Pete Docter,ToyStory4,2019,Pixar
+8,Josh Cooley,Mark Nielsen,ToyStory4,2019,Pixar
+9,Josh Cooley,Jonas Rivera,ToyStory4,2019,Pixar
+10,Josh Cooley,Lee Unkrich,ToyStory4,2019,Pixar
+11,John Lasseter,Andrew Stanton,ToyStory4,2019,Pixar
+12,John Lasseter,Valerie LaPointe,ToyStory4,2019,Pixar
+13,John Lasseter,Rashida Jones,ToyStory4,2019,Pixar
+14,John Lasseter,Will McCormack,ToyStory4,2019,Pixar
+15,John Lasseter,Martin Hynes,ToyStory4,2019,Pixar
+16,John Lasseter,Stephany Folsom,ToyStory4,2019,Pixar
+17,John Lasseter,Pete Docter,ToyStory4,2019,Pixar
+18,John Lasseter,Mark Nielsen,ToyStory4,2019,Pixar
+19,John Lasseter,Jonas Rivera,ToyStory4,2019,Pixar
+20,John Lasseter,Lee Unkrich,ToyStory4,2019,Pixar
+21,Andrew Stanton,Valerie LaPointe,ToyStory4,2019,Pixar
+22,Andrew Stanton,Rashida Jones,ToyStory4,2019,Pixar
+23,Andrew Stanton,Will McCormack,ToyStory4,2019,Pixar
+24,Andrew Stanton,Martin Hynes,ToyStory4,2019,Pixar
+25,Andrew Stanton,Stephany Folsom,ToyStory4,2019,Pixar
+26,Andrew Stanton,Pete Docter,ToyStory4,2019,Pixar
+27,Andrew Stanton,Mark Nielsen,ToyStory4,2019,Pixar
+28,Andrew Stanton,Jonas Rivera,ToyStory4,2019,Pixar
+29,Andrew Stanton,Lee Unkrich,ToyStory4,2019,Pixar
+30,Valerie LaPointe,Rashida Jones,ToyStory4,2019,Pixar
+31,Valerie LaPointe,Will McCormack,ToyStory4,2019,Pixar
+32,Valerie LaPointe,Martin Hynes,ToyStory4,2019,Pixar
+33,Valerie LaPointe,Stephany Folsom,ToyStory4,2019,Pixar
+34,Valerie LaPointe,Pete Docter,ToyStory4,2019,Pixar
+35,Valerie LaPointe,Mark Nielsen,ToyStory4,2019,Pixar
+36,Valerie LaPointe,Jonas Rivera,ToyStory4,2019,Pixar
+37,Valerie LaPointe,Lee Unkrich,ToyStory4,2019,Pixar
+38,Rashida Jones,Will McCormack,ToyStory4,2019,Pixar
+39,Rashida Jones,Martin Hynes,ToyStory4,2019,Pixar
+40,Rashida Jones,Stephany Folsom,ToyStory4,2019,Pixar
+41,Rashida Jones,Pete Docter,ToyStory4,2019,Pixar
+42,Rashida Jones,Mark Nielsen,ToyStory4,2019,Pixar
+43,Rashida Jones,Jonas Rivera,ToyStory4,2019,Pixar
+44,Rashida Jones,Lee Unkrich,ToyStory4,2019,Pixar
+45,Will McCormack,Martin Hynes,ToyStory4,2019,Pixar
+46,Will McCormack,Stephany Folsom,ToyStory4,2019,Pixar
+47,Will McCormack,Pete Docter,ToyStory4,2019,Pixar
+48,Will McCormack,Mark Nielsen,ToyStory4,2019,Pixar
+49,Will McCormack,Jonas Rivera,ToyStory4,2019,Pixar
+50,Will McCormack,Lee Unkrich,ToyStory4,2019,Pixar
+51,Martin Hynes,Stephany Folsom,ToyStory4,2019,Pixar
+52,Martin Hynes,Pete Docter,ToyStory4,2019,Pixar
+53,Martin Hynes,Mark Nielsen,ToyStory4,2019,Pixar
+54,Martin Hynes,Jonas Rivera,ToyStory4,2019,Pixar
+55,Martin Hynes,Lee Unkrich,ToyStory4,2019,Pixar
+56,Stephany Folsom,Pete Docter,ToyStory4,2019,Pixar
+57,Stephany Folsom,Mark Nielsen,ToyStory4,2019,Pixar
+58,Stephany Folsom,Jonas Rivera,ToyStory4,2019,Pixar
+59,Stephany Folsom,Lee Unkrich,ToyStory4,2019,Pixar
+60,Pete Docter,Mark Nielsen,ToyStory4,2019,Pixar
+61,Pete Docter,Jonas Rivera,ToyStory4,2019,Pixar
+62,Pete Docter,Lee Unkrich,ToyStory4,2019,Pixar
+63,Mark Nielsen,Jonas Rivera,ToyStory4,2019,Pixar
+64,Mark Nielsen,Lee Unkrich,ToyStory4,2019,Pixar
+65,Jonas Rivera,Lee Unkrich,ToyStory4,2019,Pixar
